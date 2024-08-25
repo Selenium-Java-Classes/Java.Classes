@@ -1,0 +1,7 @@
+#Geri is very smart like me !!
+#Mon Jul 15 01:11:26 CDT 2024
+Age=27
+FirstName=Sinem
+LastName=Tok
+SSN=123-345-5678
+School=NeoTech
